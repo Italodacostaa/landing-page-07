@@ -189,7 +189,7 @@ header {
     display: flex;
     justify-content: space-evenly;
     gap: 90px;
-    text-align: center;
+    text-align: start;
   }
 
   .estatisticas h3 {
@@ -233,6 +233,7 @@ header {
     margin-bottom: 20px;
     border: none;
   }
+
 
   .formulario button {
     font-size: 14px;
